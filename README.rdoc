@@ -1,0 +1,4 @@
+These are a few scripts written to manage weapon classes for the FPS video game America's Army, on PC.
+In 2006 I ran a gaming clan called ]-=1up=-[ First Uber Pwnage, and hosted a website, Teamspeak server,
+	ventrillo server, and game server from home.  I used two used dual-Xeon CPU dell servers running
+	Ubuntu server edition, command line only.
